@@ -32,7 +32,7 @@ A quick 3-question quiz learns your vibe (Streetwear, Vintage, Y2K, Minimalist, 
 
 ### 🌍 4. Sustainability Dashboard
 
-Shows live CO₂ and textile savings from reused items, aligning with **UN SDG #12 – Responsible Consumption & Production.**
+Textile savings from reused items, aligning with **UN SDG #12 – Responsible Consumption & Production.**
 
 ### ♿ 5. Accessible & Inclusive UX
 
