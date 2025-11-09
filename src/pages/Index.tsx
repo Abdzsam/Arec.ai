@@ -100,7 +100,7 @@ const Index = () => {
             Built with Accessibility in Mind
           </h2>
           <p className="text-muted-foreground">
-            ThriftAI is designed following WCAG 2.1 AA guidelines to ensure everyone can discover their perfect thrifted style.
+            Arec.ai is designed following WCAG 2.1 AA guidelines to ensure everyone can discover their perfect thrifted style.
           </p>
           <p className="text-sm text-muted-foreground">
             Powered by real AI • Vector embeddings • OpenAI GPT-4o-mini
