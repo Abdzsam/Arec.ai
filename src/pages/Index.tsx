@@ -14,7 +14,7 @@ const Index = () => {
           <div className="text-center space-y-8">
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-primary/10 rounded-full text-primary font-medium mb-4">
               <img
-                src="../public/favicon.ico"
+                src="/areca.png"
                 alt="Arec.ai logo"
                 className="w-5 h-5 rounded-full object-cover"
               />
