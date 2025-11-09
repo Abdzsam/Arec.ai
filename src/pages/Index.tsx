@@ -13,11 +13,6 @@ const Index = () => {
         <div className="relative max-w-7xl mx-auto px-4 py-20 sm:py-32">
           <div className="text-center space-y-8">
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-primary/10 rounded-full text-primary font-medium mb-4">
-              <img
-                src="/areca.png"
-                alt="Arec.ai logo"
-                className="w-5 h-5 rounded-full object-cover"
-              />
               <span>Arec.ai</span>
             </div>
             
