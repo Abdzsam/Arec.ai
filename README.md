@@ -1,5 +1,5 @@
 # Areca.ai 
-### *Discover ed fashion that matches your style — powered by real AI.*
+### *Discovered fashion that matches your style — powered by real AI.*
 
 Areca.ai brings local  stores online and uses **AI styling + recommendation systems** to help users find sustainable outfits personalized to their unique fashion vibe.  
 Built in 24 hours for a hackathon, AI combines **GPT-4o-mini** for outfit generation and **vector similarity embeddings** for real fashion recommendations.
