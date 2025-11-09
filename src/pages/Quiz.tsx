@@ -6,8 +6,8 @@ import { StyleVibe, BudgetRange, QuizAnswers } from '@/types/quiz';
 import { useQuiz } from '@/hooks/useQuiz';
 import { Sparkles } from 'lucide-react';
 
-const styleVibes: StyleVibe[] = ['Streetwear', 'Vintage', 'Minimalist', 'Y2K', 'Formal'];
-const colorOptions = ['Black', 'White', 'Earth Tones', 'Pastels', 'Bold Colors', 'Neutrals'];
+const styleVibes: StyleVibe[] = ['Cottage Core', 'Vintage', 'Grunge', 'Old Money', 'Academia', 'Punk','Streetwear'];
+const colorOptions = ['Black', 'White', 'Earth Tones', 'Pastels', 'Bold Colors', 'Neutrals', 'Warm Colours'];
 const budgetRanges: BudgetRange[] = ['<$30', '<$60', '<$100'];
 
 const Quiz = () => {
